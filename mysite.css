@@ -66,10 +66,7 @@
 .psychology {
     margin: 30px;
 }
-.slide {
-    height: 100vh;
-    width: auto;
-}
+
 
 .carousel {
     height: 100vh;
@@ -115,7 +112,7 @@ ul {
     padding-left: 15px;
     padding-right: 15px;
      }
-     .carousel {
+     .slide {
         width: 100%;
     }
 }
