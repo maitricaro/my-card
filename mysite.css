@@ -103,13 +103,13 @@ ul {
     border: 5px #000 solid;
 }
 
-.last {
-      margin: 50px;
-}
     
 @media (max-width: 576px) {
     .customer-service{
         grid-template-columns: 1fr;
         
     }
+     .specialtext {
+    padding-left: 15px;
+    padding-right: 15px;
 }
